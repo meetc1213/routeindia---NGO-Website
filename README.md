@@ -1,4 +1,6 @@
-# routeindia
+# Website for school NGO — Route India
+Created a website to give a web presence to school NGO, using design scheme of parent organization.
+See the website at https://routeindia.netlify.app/
 
-This is the code for a website for a school NGO: https://routeindia.netlify.app/
-Used Netlify to host it and made use of CSS, HTML,and Bootstrap.
+# Technologies
+- HTML, CSS, Boostrap, JS, CI/CD
