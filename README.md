@@ -3,4 +3,4 @@ Created a website to give a web presence to school NGO, using design scheme of p
 See the website at https://routeindia.netlify.app/
 
 # Technologies
-- HTML, CSS, Boostrap, JS, CI/CD
+- Python, Django, HTML, CSS, Boostrap, JS, CI/CD
